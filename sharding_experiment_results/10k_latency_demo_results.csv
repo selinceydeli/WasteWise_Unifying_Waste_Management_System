@@ -1,0 +1,21 @@
+collectionName,country,queryCount,averageLatency
+listingCollection,Portugal,100,0.44
+nonShardedCollection,Portugal,100,1.87
+listingCollection,Czech Republic,100,0.29
+nonShardedCollection,Czech Republic,100,1.81
+listingCollection,Italy,100,0.35
+nonShardedCollection,Italy,100,1.77
+listingCollection,Sweden,100,0.28
+nonShardedCollection,Sweden,100,1.77
+listingCollection,Slovakia,100,0.27
+nonShardedCollection,Slovakia,100,1.77
+listingCollection,Lithuania,100,0.28
+nonShardedCollection,Lithuania,100,1.79
+listingCollection,Malta,100,0.29
+nonShardedCollection,Malta,100,1.76
+listingCollection,Luxembourg,100,0.29
+nonShardedCollection,Luxembourg,100,1.76
+listingCollection,Bulgaria,100,0.28
+nonShardedCollection,Bulgaria,100,1.79
+listingCollection,Estonia,100,0.28
+nonShardedCollection,Estonia,100,1.76

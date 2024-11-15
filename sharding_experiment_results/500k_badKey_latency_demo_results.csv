@@ -1,0 +1,21 @@
+collectionName,country,queryCount,averageLatency
+listingCollection,Poland,100,107.74
+nonShardedCollection,Poland,100,89.33
+listingCollection,Estonia,100,104.32
+nonShardedCollection,Estonia,100,92.40
+listingCollection,Belgium,100,106.16
+nonShardedCollection,Belgium,100,90.10
+listingCollection,Sweden,100,104.01
+nonShardedCollection,Sweden,100,91.06
+listingCollection,Ireland,100,109.10
+nonShardedCollection,Ireland,100,90.26
+listingCollection,Greece,100,103.45
+nonShardedCollection,Greece,100,89.75
+listingCollection,Spain,100,103.89
+nonShardedCollection,Spain,100,88.90
+listingCollection,Czech Republic,100,106.57
+nonShardedCollection,Czech Republic,100,89.90
+listingCollection,Lithuania,100,105.50
+nonShardedCollection,Lithuania,100,91.53
+listingCollection,Slovakia,100,121.96
+nonShardedCollection,Slovakia,100,93.98
